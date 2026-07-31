@@ -14,6 +14,7 @@ The intent is to keep track of the services I install and how I configure them.
 - Wireguard
 - copyparty
 - SMB
+- Syncthing
 - Immich
 - Pi-hole
 - Jellyfin
