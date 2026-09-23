@@ -8,7 +8,9 @@ The intent is to keep track of the services I install and how I configure them.
 
 ## Current Status
 **Device:** Lenovo Y70-70 Touch
+
 **OS:** Fedora Server Edition
+
 **Services:**
 - Caddy
 - Wireguard
